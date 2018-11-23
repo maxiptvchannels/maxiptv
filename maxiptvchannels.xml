@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX SD">
+    <display-name lang="pt">FX SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="pt">Sony HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/discoveryscience.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/bandrs.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20181123013500 -0200" stop="20181123020000 -0200" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Hayley quer muito entrar para a equipe de roller derby, mas eles só a deixam jogar se sua(n)</desc>
+    <credits>
+      <director>Jansen Yee</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Josh Groban</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181123020000 -0200" stop="20181123023000 -0200" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Quando Peter lê algumas das histórias de Stephen King começa a imaginar sua família e seus amigos em três das histórias. Primeiro, Peter, Quagmire, Cleveland e Joe entram em Stand By Me(n)</desc>
+    <credits>
+      <director>Dominic Bianchi</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Seth Green</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Alex Borstein</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S8 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181123023000 -0200" stop="20181123025500 -0200" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Quando Tina fica sabendo que o aquário está em perigo e pode fechar, os irmãos Belchers armam um plano para que continue funcionando(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181123025500 -0200" stop="20181123042500 -0200" channel="FX HD">
+    <title lang="pt">Kung Fu Futebol Clube</title>
+    <desc lang="pt">Com muita ação, efeitos especiais e gargalhadas, Kung Fu Futebol Clube é uma comédia que conta a história de um grupo que tenta a qualquer custo ganhar uma competição(n)</desc>
+    <credits>
+      <director>Stephen Chow</director>
+      <actor>Stephen Chow</actor>
+      <actor>Wei Zhao</actor>
+      <actor>Yin Tse</actor>
+      <actor>Man Tat Ng</actor>
+      <actor>Law Kar-Ying</actor>
+      <actor>\tCecilia Cheung</actor>
+      <actor>Chi Ling Chiu</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181123042500 -0200" stop="20181123060000 -0200" channel="FX HD">
+    <title lang="pt">Weaponized</title>
+    <desc lang="pt">O contratante privado militar Kyle Norris facilita o desenvolvimento do programa de armas biomecânicas através do professor Clarence Peterson(n)</desc>
+    <credits>
+      <director>Timothy Woodward Jr</director>
+      <actor>Johnny Messner</actor>
+      <actor>Johnny Messner</actor>
+      <actor>Mickey Rourke</actor>
+      <actor>Mickey Rourke</actor>
+      <actor>Tom Sizemore</actor>
+      <actor>Tom Sizemore</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181123060000 -0200" stop="20181123063000 -0200" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181123063000 -0200" stop="20181123070000 -0200" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181123070000 -0200" stop="20181123073000 -0200" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181123073000 -0200" stop="20181123080000 -0200" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181123080000 -0200" stop="20181123090000 -0200" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20181123090000 -0200" stop="20181123104000 -0200" channel="FX HD">
+    <title lang="pt">Conexão Ásia</title>
+    <desc lang="pt">Dois americanos expatriados, Jack e Sam, sem querer, roubam o dinheiro de um traficante de drogas quando roubam uma série de bancos no sudeste da Ásia e tornam-se o alvo da vingança da gangue(n)</desc>
+    <credits>
+      <director>Daniel Zirilli</director>
+      <actor>Steven Seagal</actor>
+      <actor>Pin Bibear</actor>
+      <actor>Ron Smoorenburg</actor>
+      <actor>Michael Jai White</actor>
+      <actor>Eoin O'Brien</actor>
+      <actor>Sahajak Boonthanakit</actor>
+      <actor>Natalie Lorence</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181123104000 -0200" stop="20181123111000 -0200" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <desc lang="pt">Hayley consegue um emprego e se apaixona por um colega de trabalho. Enquanto isso, Stan leva Steve e Francine para um baile de Mães e Filhos(n)</desc>
+    <credits>
+      <director>Pam Cooke</director>
+      <director>Valerie Fletcher</director>
+      <actor>Vozes de Seth MacFarlane</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Scott Grimes</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S11 E12</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181123111000 -0200" stop="20181123114000 -0200" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Brian conhece a garota dos seus sonhos, Carolyn. No entanto, Cleveland parte na frente e conquista Carolyn. Desesperado para tê-la de volta, Brian precisa fazer tudo o que puder, ainda que isto inclua a ex-esposa de Cleveland(n)</desc>
+    <credits>
+      <director>Cyndi Tang-Loveland</director>
+      <actor>Vozes de Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <actor>Alexandra Breckenridge</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181123114000 -0200" stop="20181123120500 -0200" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <desc lang="pt">Louise é colocada em uma situação difícil quando deve defender um de seus maiores inimigos em Wagstaff durante um julgamento simulado(n)</desc>
+    <credits>
+      <director>Chris Song</director>
+      <actor>Vozes de H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>John Roberts</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Andy Kindler</actor>
+      <actor>Larry Murphy</actor>
+      <actor>Melissa Bardin Galsky</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S7 E11</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181123120500 -0200" stop="20181123135500 -0200" channel="FX HD">
+    <title lang="pt">Equilibrium</title>
+    <desc lang="pt">Num futuro apocalíptico, os governantes decidem acabar com as emoções da humanidade, com uma nova droga, mas um guardião decide derrubar o regime(n)</desc>
+    <credits>
+      <director>Kurt Wimmer</director>
+      <actor>Dominic Purcell</actor>
+      <actor>Christian Bale</actor>
+      <actor>Sean Bean</actor>
+      <actor>Christian Kahrmann</actor>
+      <actor>John Keogh</actor>
+      <actor>Sean Pertwee</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20181123135500 -0200" stop="20181123155000 -0200" channel="FX HD">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">A vida de June muda ao conhecer Wilner, um agente secreto. Eles embarcam numa viagem pelo mundo em um labirinto de falsas identidades e alucinantes perseguições até a dupla perceber que só podem confiar um no outro(n)</desc>
+    <credits>
+      <director>James Mangold</director>
+      <actor>Tom Cruise</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Jordi Mollà</actor>
+      <actor>Viola Davis</actor>
+      <actor>Paul Dano</actor>
+      <actor>Falk Hentschel</actor>
+      <actor>Marc Blucas</actor>
+      <actor>Lennie Loftin</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181123155000 -0200" stop="20181123174500 -0200" channel="FX HD">
+    <title lang="pt">Loucas pra Casar</title>
+    <desc lang="pt">Malu tem 40 anos e trabalha como secretária de Samuel, o homem de sua vida. Namorados há três anos, ela espera ansiosa pelo pedido de casamento(n)</desc>
+    <credits>
+      <director>Roberto Santucci</director>
+      <actor>Ingrid Guimarães</actor>
+      <actor>Marcio Garcia</actor>
+      <actor>Tatá Werneck</actor>
+      <actor>Suzana Pires</actor>
+      <actor>Camila Amado</actor>
+      <actor>Alice Borges</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181123174500 -0200" stop="20181123193000 -0200" channel="FX HD">
+    <title lang="pt">Duro de Matar: Um Bom Dia para Morrer</title>
+    <desc lang="pt">Bruce Willis volta com o quinto filme da saga de ação de maior sucesso de todos os tempos. Desta vez, o duro policial de Los Angeles trabalha com seu filho para a CIA. A missão é proteger um preso político na Rússia(n)</desc>
+    <credits>
+      <director>John Moore</director>
+      <actor>Bruce Willis</actor>
+      <actor>Jai Courtney</actor>
+      <actor>Sebastian Koch</actor>
+      <actor>Mary Elizabeth Winstead</actor>
+      <actor>Yuliya Snigir</actor>
+      <actor>Amaury Nolasco</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181123193000 -0200" stop="20181123213000 -0200" channel="FX HD">
+    <title lang="pt">Guerra dos Mundos</title>
+    <desc lang="pt">Extraordinária batalha para salvar a raça humana através das peripécias de uma família e sua luta para sobreviver quando a Terra é invadida por marcianos em forma de máquinas de guerra(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Tom Cruise</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Justin Chatwin</actor>
+      <actor>Miranda Otto</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Rick Gonzalez</actor>
+      <actor>Yul Vazquez</actor>
+      <actor>Lenny Venito</actor>
+      <actor>David Alan Blasche</actor>
+      <actor>Camillia Sanes</actor>
+      <actor>Roz Abrams</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20181123213000 -0200" stop="20181123225000 -0200" channel="FX HD">
+    <title lang="pt">Cloverfield - Monstro</title>
+    <desc lang="pt">A história do ataque de um monstro, em Nova York, é contada pelo ponto de vista de um grupo de amigos que comemora o aniversário de um deles(n)</desc>
+    <credits>
+      <director>Matt Reeves</director>
+      <actor>Lizzy Caplan</actor>
+      <actor>Jessica Lucas</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Michael Stahl-David</actor>
+      <actor>Mike Vogel</actor>
+      <actor>Odette Yustman</actor>
+      <actor>Anjul Nigam</actor>
+      <actor>Margot Farley</actor>
+      <actor>Theo Rossi</actor>
+      <actor>Brian Klugman</actor>
+      <actor>Kelvin Yu</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20181123001500 -0400" stop="20181123023500 -0400" channel="FX SD">
+    <title lang="pt">Noé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123023500 -0400" stop="20181123030000 -0400" channel="FX SD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123030000 -0400" stop="20181123033000 -0400" channel="FX SD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123033000 -0400" stop="20181123035500 -0400" channel="FX SD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123035500 -0400" stop="20181123052500 -0400" channel="FX SD">
+    <title lang="pt">Kung Fu Futebol Clube</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123052500 -0400" stop="20181123070000 -0400" channel="FX SD">
+    <title lang="pt">Weaponized</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123070000 -0400" stop="20181123073000 -0400" channel="FX SD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123073000 -0400" stop="20181123080000 -0400" channel="FX SD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123080000 -0400" stop="20181123083000 -0400" channel="FX SD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123083000 -0400" stop="20181123090000 -0400" channel="FX SD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123090000 -0400" stop="20181123100000 -0400" channel="FX SD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123100000 -0400" stop="20181123114000 -0400" channel="FX SD">
+    <title lang="pt">Conexão Ásia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123114000 -0400" stop="20181123121000 -0400" channel="FX SD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123121000 -0400" stop="20181123124000 -0400" channel="FX SD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123124000 -0400" stop="20181123130500 -0400" channel="FX SD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123130500 -0400" stop="20181123145500 -0400" channel="FX SD">
+    <title lang="pt">Equilibrium</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123145500 -0400" stop="20181123165000 -0400" channel="FX SD">
+    <title lang="pt">Encontro Explosivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123165000 -0400" stop="20181123184500 -0400" channel="FX SD">
+    <title lang="pt">Loucas pra Casar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123184500 -0400" stop="20181123203000 -0400" channel="FX SD">
+    <title lang="pt">Duro de Matar: Um Bom Dia para Morrer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123203000 -0400" stop="20181123223000 -0400" channel="FX SD">
+    <title lang="pt">Guerra dos Mundos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123223000 -0400" stop="20181123235000 -0400" channel="FX SD">
+    <title lang="pt">Cloverfield</title>
+    <sub-title lang="pt">Monstro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181123235000 -0400" stop="20181124013500 -0400" channel="FX SD">
+    <title lang="pt">Rua Cloverfield, 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
